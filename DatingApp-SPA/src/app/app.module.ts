@@ -25,6 +25,7 @@ import { ErrorInterceptorProvider } from './_services/error.interceptor';
   ],
   providers: [
     ErrorInterceptorProvider
+    
   ],
   bootstrap: [AppComponent]
 })
